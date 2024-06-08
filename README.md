@@ -1,0 +1,4 @@
+# 71220838_CHIKA-VENESA_DETEKSI-KECURANGAN-ASURANSI_RANDOMFOREST
+
+LINK GOOGLE COLAB
+https://colab.research.google.com/drive/1lkHA4ZZcWn9LDqK7GrTwtxlfRSBDnrsn?usp=sharing
